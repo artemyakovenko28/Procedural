@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="949d54fb-5458-40a4-9603-413e47e29e7f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_2_dynamic_data_structures/loop_list/LoopList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App00.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App01.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App01x.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App02.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App13x.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App40.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App40x.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/IntHolder.java" />
+    <list default="true" id="949d54fb-5458-40a4-9603-413e47e29e7f" name="Default" comment="loop list, memory in java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,29 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SingleLLUtilsModification.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsModification.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="151" column="27" lean-forward="false" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoopList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/loop_list/LoopList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App40x.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App40x.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App40x.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
@@ -63,6 +32,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleLLUtilsCreation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleLLUtilsAdditional.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsAdditional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -244,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleLLUtilsModification">
+  <component name="RunManager" selected="Application.SingleLLUtilsAdditional">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -255,6 +244,25 @@
     <configuration name="ArrayMerger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ArrayMerger" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Procedural" />
+      <envs />
+    </configuration>
+    <configuration name="SingleLLUtilsAdditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="_2_dynamic_data_structures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="_2_dynamic_data_structures.SingleLLUtilsAdditional" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -378,16 +386,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.ArrayMerger" />
       <item index="1" class="java.lang.String" itemvalue="Application.SingleLLUtilsCreation" />
       <item index="2" class="java.lang.String" itemvalue="Application.SingleLLUtilsModification" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SingleLLUtilsAdditional" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.SingleLLUtilsModification" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SingleLLUtilsCreation" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayMerger" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.SingleLLUtilsAdditional" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SingleLLUtilsModification" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SingleLLUtilsCreation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayMerger" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +418,7 @@
       <workItem from="1515859571080" duration="2675000" />
       <workItem from="1516017024706" duration="1192000" />
       <workItem from="1516048892502" duration="974000" />
-      <workItem from="1516135753557" duration="429000" />
+      <workItem from="1516135753557" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="recursion">
       <created>1515936491950</created>
@@ -431,11 +441,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516135961172</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="loop list, memory in java">
+      <created>1516221551832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1516221551832</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7034000" />
+    <option name="totallyTimeSpent" value="7137000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,12 +474,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2247191" sideWeight="0.50733495" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2247191" sideWeight="0.49266502" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2247191" sideWeight="0.49266502" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21271394" sideWeight="0.49550563" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21271394" sideWeight="0.49550563" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -488,7 +505,8 @@
     <MESSAGE value="recursion" />
     <MESSAGE value="creating single linked list" />
     <MESSAGE value="modification and additional single linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="modification and additional single linked list" />
+    <MESSAGE value="loop list, memory in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="loop list, memory in java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -755,22 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsCreation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsAdditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsModification.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -849,6 +851,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsAdditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding />
         </state>
       </provider>
