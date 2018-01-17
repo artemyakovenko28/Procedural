@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="949d54fb-5458-40a4-9603-413e47e29e7f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsAdditional.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsModification.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_2_dynamic_data_structures/loop_list/LoopList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App00.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App01x.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App13x.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App40.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/App40x.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_3_memory_in_java/IntHolder.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,8 +26,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_0_sort/SelectionSort.java">
+      <file leaf-file-name="SingleLLUtilsModification.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsModification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="151" column="27" lean-forward="false" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoopList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/loop_list/LoopList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App40x.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App40x.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App40.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App40.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -29,8 +68,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_1_recursion/Main.java">
+      <file leaf-file-name="App01x.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App01x.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -40,7 +79,7 @@
         </entry>
       </file>
       <file leaf-file-name="App00.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/App00.java">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App00.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -49,40 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/Node.java">
+      <file leaf-file-name="App02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleLLUtilsCreation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsCreation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleLLUtilsAdditional.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsAdditional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleLLUtilsModification.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsModification.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2691">
+            <state relative-caret-position="92">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
@@ -90,7 +99,17 @@
         </entry>
       </file>
       <file leaf-file-name="App01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/App01.java">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App13x.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App13x.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -99,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_0_sort/InsertionSort.java">
+      <file leaf-file-name="IntHolder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/IntHolder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/App01.java" />
         <option value="$PROJECT_DIR$/src/_2_dynamic_data_structures/App01.java" />
         <option value="$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsModification.java" />
+        <option value="$PROJECT_DIR$/src/_2_dynamic_data_structures/loop_list/LoopList.java" />
       </list>
     </option>
   </component>
@@ -177,6 +197,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_2_dynamic_data_structures" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Procedural" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Procedural" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_2_dynamic_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="loop_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Procedural" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Procedural" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_3_memory_in_java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -191,11 +224,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_2_dynamic_data_structures.loop_list" />
       <recent name="_1_recursion" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\JavaStudy\Procedural\src\_2_dynamic_data_structures" />
       <recent name="E:\JavaStudy\Procedural\src" />
+      <recent name="E:\JavaStudy\Procedural\src\_2_dynamic_data_structures" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -374,7 +408,7 @@
       <workItem from="1515859571080" duration="2675000" />
       <workItem from="1516017024706" duration="1192000" />
       <workItem from="1516048892502" duration="974000" />
-      <workItem from="1516135753557" duration="146000" />
+      <workItem from="1516135753557" duration="429000" />
     </task>
     <task id="LOCAL-00001" summary="recursion">
       <created>1515936491950</created>
@@ -390,11 +424,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516049029406</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modification and additional single linked list">
+      <created>1516135961172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1516135961172</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6751000" />
+    <option name="totallyTimeSpent" value="7034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,37 +487,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="recursion" />
     <MESSAGE value="creating single linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating single linked list" />
+    <MESSAGE value="modification and additional single linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification and additional single linked list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_0_sort/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_1_recursion/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/App00.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -755,8 +773,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/SingleLLUtilsModification.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2691">
+        <state relative-caret-position="483">
+          <caret line="151" column="27" lean-forward="false" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2_dynamic_data_structures/loop_list/LoopList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/IntHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App01x.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App13x.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_3_memory_in_java/App40x.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
