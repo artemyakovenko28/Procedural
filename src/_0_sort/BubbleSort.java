@@ -15,6 +15,22 @@ public class BubbleSort {
         }
     }
 
+    private static int[] optimizedBubbleSort(int[] array) {
+        boolean changed;
+        do {
+            changed = false;
+            for (int i = 0; i < array.length - 1; i++) {
+                if (array[i] > array[i + 1]) {
+                    int temp = array[i];
+                    array[i] = array[i + 1];
+                    array[i + 1] = temp;
+                    changed = true;
+                }
+            }
+        } while (changed);
+        return array;
+    }
+
     public static void bubbleSort(int[] array) {
         for (int barrier = array.length - 1; barrier >= 0; barrier--) {
             for (int index = 0; index < barrier; index++) {
@@ -38,7 +54,8 @@ public class BubbleSort {
 //        System.out.println(Arrays.toString(emptyArray));
 //        sort(emptyArray);
 //        System.out.println(Arrays.toString(emptyArray));
-        bubbleSort(array);
-        System.out.println(Arrays.toString(array));
+//        bubbleSort(array);
+        System.out.println(Arrays.toString(optimizedBubbleSort(array)));
+//        System.out.println(Arrays.toString(array));
     }
 }

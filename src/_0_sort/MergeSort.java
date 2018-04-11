@@ -14,10 +14,8 @@ public class MergeSort {
         System.arraycopy(array, 0, left, 0, mid);
         System.arraycopy(array, mid, right, 0, array.length - mid);
 
-        if (left.length > 2) {
+        if (left.length > 2 || right.length > 2) {
             left = sort(left);
-        }
-        if (right.length > 2) {
             right = sort(right);
         }
 
