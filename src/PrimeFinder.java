@@ -3,8 +3,9 @@ import java.util.List;
 
 public class PrimeFinder {
     public static void main(String[] args) {
-        System.out.println(findPrimes(100));
-        System.out.println(findPrimes(200));
+//        System.out.println(findPrimes(100));
+//        System.out.println(findPrimes(200));
+        System.out.println(findPrimesOptimized(100));
     }
 
     private static List<Integer> findPrimes(int n) {
@@ -24,5 +25,23 @@ public class PrimeFinder {
             }
         }
         return true;
+    }
+
+    private static List<Integer> findPrimesOptimized(int n) {
+        boolean[] primes = new boolean[n];
+        List<Integer> primeNumbers = new ArrayList<>();
+        for (int i = 2; i < primes.length; i++) {
+            primes[i] = true;
+        }
+        primes[0] = primes[1] = false;
+        for (int i = 2; i < n; i++) {
+            if (primes[i]) {
+                primeNumbers.add(i);
+                for (int j = i; j < n; j += i) {
+                    primes[j] = false;
+                }
+            }
+        }
+        return primeNumbers;
     }
 }
