@@ -27,7 +27,7 @@ public class PrimeFinder {
         return true;
     }
 
-    private static List<Integer> findPrimesOptimized(int n) {
+    static List<Integer> findPrimesOptimized(int n) {
         boolean[] primes = new boolean[n];
         List<Integer> primeNumbers = new ArrayList<>();
         for (int i = 2; i < primes.length; i++) {
