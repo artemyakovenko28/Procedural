@@ -1,3 +1,5 @@
+package _5_algorithms;
+
 import java.util.ArrayList;
 
 public class PalindromeChecker {

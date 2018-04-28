@@ -1,3 +1,5 @@
+package _5_algorithms;
+
 import java.util.Arrays;
 
 public class ArrayMerger {

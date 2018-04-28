@@ -1,3 +1,5 @@
+package _5_algorithms;
+
 public class BinarySearch {
     public static int binarySearch(int[] array, int key) {
         int low = 0;
