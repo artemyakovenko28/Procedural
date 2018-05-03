@@ -1,4 +1,4 @@
-package _5_algorithms.circular_sequence_task;
+package _5_algorithms;
 
 import java.util.ArrayList;
 import java.util.List;

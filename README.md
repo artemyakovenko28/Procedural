@@ -32,3 +32,13 @@ Check if the string or number is a palindrome. Palindrome is a word, phrase, or 
 Find all prime numbers up to n.
 #### PrimePalindrome
 Program that returns the largest palindrome, which is a composition of two simple five-digit numbers, and returns the factors themselves. A simple number is a natural number that is divided entirely only by 1 and by itself (2, 3, 5, 7, 11, ...). A palindrome is a string, which is read equally in both directions (for example ABBA). Optimize program code so that calculations take less time.
+#### CircularSequence
+`src\_5_algorithms\CircularSequenceTask.java`<br>
+Numbers from 1 to 999 are arranged in a circle (as on the clock face).
+If you delete each 4th number, which three numbers will remain at the end?
+#### Check for anagram two strings
+`src\_5_algorithms\CheckForAnagramTwoStrings.java`<br>
+Check for anagram two strings. Two string are anagram if we can get one string from another using permutations of letters
+#### Sum of pairs
+`src\_5_algorithms\SumOfPairs.java`<br>
+Write an algorithm that detects all pairs of integers in the array, sum of which is equal to the specified value.
