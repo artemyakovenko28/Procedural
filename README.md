@@ -42,3 +42,6 @@ Check for anagram two strings. Two string are anagram if we can get one string f
 #### Sum of pairs
 `src\_5_algorithms\SumOfPairs.java`<br>
 Write an algorithm that detects all pairs of integers in the array, sum of which is equal to the specified value.
+#### Find max product
+`src\_5_algorithms\MaxProductFinder.java`<br>
+Write a program that finds and prints max composition of 3 values in array of integers
