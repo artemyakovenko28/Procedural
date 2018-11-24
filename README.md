@@ -1,5 +1,5 @@
 # Procedural
-Considered fundamental concepts of procedural programming, basic algorithms and data structures
+Considered fundamental concepts of procedural programming, algorithms and data structures
 ## Tasks
 ### Sorts
 `src/_0_sort` - Implemented BubbleSort, SelectionSort, InsertionSort iteratively; MergeSort recursively
